@@ -8,6 +8,7 @@ network architectures including feedforward networks, convolutional neural netwo
 (CNNs), and recurrent neural networks (RNNs).
 
 ## Repository Structure
+```
 Deep Learning/
 ├── Code/
 │   └── Bird_Identification_NN.ipynb
@@ -18,6 +19,7 @@ Deep Learning/
 │   └── test3.mp3               (not included)
 └── Report/
     └── Seattle_Birds_Classification_Report.docx
+```
 
 ## Species Classified
 | Code | Species |
